@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remarkable life &amp; death of the Lady Apollina Hall widdow, deceased in the 21th year of her age By William Typpin, Esquire. Imprimatur, Edm Calamy</title>
+            <author>Tipping, William, 1598-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64074</idno>
+            <idno type="STC">Wing T3567</idno>
+            <idno type="STC">ESTC R219517</idno>
+            <idno type="EEBO-CITATION">99830984</idno>
+            <idno type="PROQUEST">99830984</idno>
+            <idno type="VID">35446</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35446)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2084:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remarkable life &amp; death of the Lady Apollina Hall widdow, deceased in the 21th year of her age By William Typpin, Esquire. Imprimatur, Edm Calamy</title>
+                  <author>Tipping, William, 1598-1649.</author>
+               </titleStmt>
+               <extent>[2], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A.M. for Christopher Meredith, at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hall, Apollonia, --  Lady, 1626 or 7-1647 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35446:1" rendition="simple:additions"/>
+            <p>THE REMARKABLE LIFE &amp; DEATH of the Lady APOLLINA HALL Widdow, deceaſed in the 21<hi rend="sup">th</hi> year of her age.</p>
+            <p>By <hi>William Typpin,</hi> Eſquire.</p>
+            <q>
+               <bibl>PROV 12.11.</bibl>
+               <p>A vertuous woman is a crown to her H<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>band, but ſhe that makes aſhamed is a rottenneſſe in hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bones.</p>
+            </q>
+            <q>
+               <bibl>PROV 31.30.</bibl>
+               <p>Favour is deceitfull and beauty is vain, but a woman that feareth the Lord, ſhe ſhall be praiſed</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>EDM CALAMY</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Chriſtopher Meredith,</hi> at the Crane in <hi>Pauls</hi> Church-yard, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35446:2"/>
+            <pb n="1" facs="tcp:35446:2"/>
+            <head>THE REMARKABLE LIFE &amp; DEATH of the Lady APOLLINA HALL Widdow, deceaſed in the 21<hi rend="sup">th</hi> year of her age.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S it is a work of charity to mea<g ref="char:EOLhyphen"/>ſure others by our ſelves, and to look on others faults through the glaſſe of our own <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>firmities; ſo is it likewiſe a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atter of prudence and piety, to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gulate our lives by the line of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers, and (next to the ſquare <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods word) to take our light, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>m and direction from ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons, whoſe lives do hold <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>th the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uprighteſt con<g ref="char:EOLhyphen"/>verſations,
+<pb n="2" facs="tcp:35446:3"/>and whoſe actions as well as their profeſſions, do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeak them holy. I know it's <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> common complaint in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> world, and in truth not with<g ref="char:EOLhyphen"/>out juſt cauſe, that the genera<g ref="char:EOLhyphen"/>lity of people doe idolize exam<g ref="char:EOLhyphen"/>ples, and ſtudy men too much but the fault is not in the action but in the object, becauſe they make not a prudent choice; for did we carefully make choic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of, as the word of God for ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rule, ſo the moſt holy and expe<g ref="char:EOLunhyphen"/>rienced Saints of God for ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> directories, in our Chriſtian way. Oh how much of heaven ſhould we have in our lives, what gra<g ref="char:EOLhyphen"/>cious helps would theſe be to ſpiritualize and rectifie our judgements, to warm our affe<g ref="char:EOLhyphen"/>ctions, reſolve our doubts, to unbottome us many times from fancies and ſuperſtitious vani<g ref="char:EOLhyphen"/>ties,
+<pb n="3" facs="tcp:35446:3"/>and ſettle our unſtable <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arts in the way of truth and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ace.</p>
+            <p>Amongſt many ſweet ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ples and paterns of ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>eſſe, that yet through the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercy of God, have given <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rth ſome luſter in theſe gloo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y daies, I have thought good <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſent this one to publike <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ew, not to be contemned be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſe of ſex, for Gods graces <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to be honoured wherever we <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nde them. Her remarkable <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e, and bleſſed and ſweet de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ture out of the ſame, doe ren<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r her a patern of imitation, I <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight have ſaid, of admiration <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all poſterity. I ſhould but <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ifle in a ſerious buſineſſe, to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t forth in this place, thoſe out<g ref="char:EOLhyphen"/>ward accommodations where<g ref="char:EOLhyphen"/>with God and nature had a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orn'd her, in her perſon, parts
+<pb n="4" facs="tcp:35446:4"/>and parentage, for all theſe are but as rubbiſh to true worth, and to inſcribe ſuch trifles <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any matter of her praiſe, were but to lay her honour in t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> duſt: but that which is to be commended in her, is her good<g ref="char:EOLhyphen"/>neſſe, ſweetneſſe in her diſpoſi<g ref="char:EOLhyphen"/>tion, humility in her carriage, holineſſe in her life, chearfull<g ref="char:EOLhyphen"/>neſſe in her chriſtian way, ſtabi<g ref="char:EOLhyphen"/>lity in her principles which ſhe held, from the which, when once ſhe had found their footing in the word of God (for that was her conſtant touchſtone) nothing could make her to de<g ref="char:EOLhyphen"/>cline. Theſe with many others, are the ſweet odours which pre<g ref="char:EOLhyphen"/>ſerve her as a living monument amongſt us, and keep in freſh memory her name on earth, as I doubt not but the Lord hath honoured her with a crown in heaven.</p>
+            <pb n="5" facs="tcp:35446:4"/>
+            <p> In the declaration of this La<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es ſhort life, for truly ſhe li<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed but like the ſunne flower, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ept into the world, and then <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſed up again: I ſhall take my <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe only from the time ſhe firſt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gan to give up her name to Chriſt, accounting of her till <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en, but in a dead and loſt con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion; for before we are in <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me meaſure acquainted with <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wayes of Chriſt, before that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y dawn, and that day-ſtarre <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe in our hearts, we may be <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id to be in life, but we live <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot; our very being is little bet<g ref="char:EOLhyphen"/>ter then death and darkneſſe.</p>
+            <p>Her education from her very <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ildhood was in a religious <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, but in truth, through the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ult and frailty of an over-in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gent Guardian too ſoft and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee, for this indulgency to her <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>clination in her bloſſome
+<pb n="6" facs="tcp:35446:5"/>years (a caveat to fond Grand<g ref="char:EOLhyphen"/>mothers) did but ſerve to ad<g ref="char:EOLhyphen"/>vance and ſtrengthen corrupt na<g ref="char:EOLhyphen"/>ture in her againſt her better ſelf, and to blow the coal of her corruptions into a greater flame. But when it pleaſed God to call her by his grace, and to reveal himſelf in her, oh then her for<g ref="char:EOLhyphen"/>mer infirmities had an influence on her ſpirit for her greater good, (ſee how the Lord draws an antidote out of poiſon,) and they quicken her indeavours in her gracious way.</p>
+            <p>About ſome three years be<g ref="char:EOLhyphen"/>fore her diſſolution, in the eigh<g ref="char:EOLhyphen"/>teenth year of her age, the Lord began to remove the ſcales of ignorance from her eyes, and to give her a more through ſenſe and apprehenſion of the power of ſin and Satan upon her ſoul; and now the high mountain is
+<pb n="7" facs="tcp:35446:5"/>abaſed, and the ſtubborn heart <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s layed low, and ſhe is become <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lambe in her converſation; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow ſhe begins to enter into a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore ſad and ſerious conſidera<g ref="char:EOLhyphen"/>tion of her former courſe. Now <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owever God had diſpenſed the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omforts of this life to her with <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very free and liberall hand, yet <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cares not for mans day, the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ream of her affections are car<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed into another channell: now <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l the golden vanities of this <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe, and what ever the world <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore preſented as precious in <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r eye, ſhe layes them as de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icable things under her foot; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er thoughts are now tranſcen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent and heavenward, and both <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>e and heart are bound for e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ity: There is nothing now <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>unds pleaſing in her ears, but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat hath the ſtamp of everla<g ref="char:EOLhyphen"/>ſtingneſſe upon it. An everla<g ref="char:EOLhyphen"/>ſting
+<pb n="8" facs="tcp:35446:6"/>Chriſt as her way, an e<g ref="char:EOLhyphen"/>verlaſting heaven as her end, an everlaſting glory as her crown. Theſe and the like are the ſub<g ref="char:EOLhyphen"/>ject of her meditations, and take up all her joy. She ſet apart four hours in the day for divine duties (theſe were her ſouls repaſt) and every night before ſhe laid her to her reſt, ſhe call'd her ſoul to a reckoning, (taking the ſame in writing) what er<g ref="char:EOLhyphen"/>rours or frailties ſhe had fallen into the day paſt, what incur<g ref="char:EOLhyphen"/>ſions ſin and Satan had made upon her ſoul; wherein God had been diſhonoured, and her profeſſion ſcandalized in her Chriſtian walk. And here I cannot but commend and ad<g ref="char:EOLhyphen"/>mire her care and cautious cir<g ref="char:EOLhyphen"/>cumſpection in diſcharge of this duty; for I am credibly in<g ref="char:EOLhyphen"/>formed, that if at night when
+<pb n="9" facs="tcp:35446:6"/>ſhe was to ſequeſter her ſelf to this ſoul examination, ſome ex<g ref="char:EOLhyphen"/>traordinary occurrences had caſt her upon a later hour then uſuall, ſo that through heavi<g ref="char:EOLhyphen"/>neſſe of body, and indiſpoſed<g ref="char:EOLhyphen"/>neſſe of minde, ſhe found her ſelf diſpirited and unfitted for that task, her practice then was, to ſtirre up, quicken and enliven her ſpirits, by ſuch means as ſhe ſaw moſt conducible to that end, that ſo ſhe might come be<g ref="char:EOLhyphen"/>fore the Lord with life, love and chearfullneſſe, and not preſent her ſacrifice of prayer before his glorious throne, with a dull and fluggiſh ſoul; for ſhe knew well, that the exerciſes of Gods wor<g ref="char:EOLhyphen"/>ſhip, how conſtant ſoever for time and place, yet are never carried on to the true comfort of the ſoul, unleſſe the heart be quickned, and carefully reduced
+<pb n="10" facs="tcp:35446:7"/>into a praying condition. Its further obſervable in this Lady, that ſhe had alwaies a moſt lo<g ref="char:EOLhyphen"/>ving heart, and free, affable, courteous deportment towards all, both rich and poor, that had any thing of Chriſt in them, eſpecially godly Miniſters: and for her charity otherwiſe to the poor, her religious heart was ſo affectionately diſpoſed to them, that ſhe could have ſtrait<g ref="char:EOLhyphen"/>ned her own bowels to doe them good; as ſhe did fully evidence by her holy repining at that coſt and charge which the ne<g ref="char:EOLhyphen"/>ceſſity of her ſickneſſe inforced her to, ſaying, ſhe had ſpent that coſt upon a rotten carkaſe (that was her own expreſſion) which might have comforted many a poor chriſtian. The weariſome condition of this life, but I be<g ref="char:EOLhyphen"/>leeve, much more the joyfull
+<pb n="11" facs="tcp:35446:7"/>expectation of a better, made her exceeding willing to die: yet with an humble ſubmiſſion to Gods will, praying, that whe<g ref="char:EOLhyphen"/>ther it were life or death, that condition might befall her, whereby God might have moſt glory. As it was the ſureſt, ſo was it alſo the greateſt comfort her heart did joy in, that God had ſpoken peace to her trou<g ref="char:EOLhyphen"/>bled ſoul, and had graciouſly vouchſafed her ſome inward aſ<g ref="char:EOLhyphen"/>ſurance of her ſalvation, which coſt her, ſhe ſaid, many a ſweat, and much ſtriving, before ſhe attained thereunto. Being in conference with an intimate friend of hers about the ſtate of her ſoul; ſhe brake forth into a holy admiration of Gods abun<g ref="char:EOLhyphen"/>dant grace and favour, and of the overflowing ſtreams of his loving kindneſſe to her ſoul: <hi>Oh
+<pb n="12" facs="tcp:35446:8"/>that God ſhould look upon me, ſuch a poor creature as I am! but all is free grace, ſaith ſhe, all is free grace: When I enter,</hi> ſaith ſhe, <hi>into a ſad and ſerious conſideration of my ſins, I am exceedingly amazed and cast down; but when again I re<g ref="char:EOLhyphen"/>collect my ſelf, and looking out of my ſelf, call to minde the free grace of God to me in Chriſt, Oh then, this comfort refreſheth my ſoul.</hi>
+            </p>
+            <p>She took exceeding great de<g ref="char:EOLhyphen"/>light in the promiſes of God, ſet forth in the new Teſtament, moſt whereof (as very credible information gives me) ſhe writ out with her own hand in time of health. Above the reſt, that place of S<hi rend="sup">t</hi> 
+               <hi>John,</hi> chap. 11.13. did more eſpecially affect her; <hi>If ye ſhall aske any thing in my Name, I will doe it.</hi> She was exceeding ſollicitous and fearfull over her ſelf, leaſt any created comforts,
+<pb n="13" facs="tcp:35446:8"/>(the Dalilaes of corrupt fleſh) ſhould creep into, and take poſ<g ref="char:EOLhyphen"/>ſeſſion of her heart, as appeared by this; that being moved by a certain perſon about her, to ſend for her childe, in which ſhe was much delighted; ſhe durſt not, ſhe anſwered, truſt her de<g ref="char:EOLhyphen"/>ceitfull heart, leſt it ſhould be immoderately let out upon her childe, as formerly it had been upon her dear husband; not that ſhe condemned that mea<g ref="char:EOLhyphen"/>ſure of affection which God and nature requires to husband and children,; for as for her huſ<g ref="char:EOLhyphen"/>band, it was conceived by her Phyſician, that her extream en<g ref="char:EOLhyphen"/>deavours to preſerve his life, was the loſſe of her own: but to in<g ref="char:EOLhyphen"/>timate how ready and prone our hearts are to break the bounds of moderation in the things of this life, and to live more in the
+<pb n="14" facs="tcp:35446:9"/>creatures then in God that gave them. It was her ordinary cu<g ref="char:EOLhyphen"/>ſtome, after the deceaſe of her dear husband, ſo long as health and ſtrength did permit, to per<g ref="char:EOLhyphen"/>form the duties of reading and prayer in her family, in her own perſon, ſo far was ſhe from the totall neglect thereof; A fault that lies heavy upon this Nation, &amp; I fear, one ſpeciall provocation of Gods judgements againſt us at this time, and a prevalent cauſe that our ſtreets have ſtream'd with blood. One would think it impoſſible, that in theſe Goſpel daies, there ſhould be ſo much atheiſme in the hearts of any profeſſing the name of Chriſtians, as that they ſhould with boldneſſe and confidence, every day partake of Gods bleſ<g ref="char:EOLhyphen"/>ſings, (yea, cannot ſubſiſt with<g ref="char:EOLhyphen"/>out them) and yet never return
+<pb n="15" facs="tcp:35446:9"/>ſo much as a morning and even<g ref="char:EOLhyphen"/>ing ſacrifice in the family, in a thankfull acknowledgement of ſuch bounty. Truly God is ex<g ref="char:EOLhyphen"/>tremely ſleighted in the world, and therefore no marvell if we be ſleighted and rejected by him. Its a ſad omen, that they have not much of God in their hearts, that have ſo little of his Name in their lips. I ſay no more but this, its an infinite mercy of God to men of this conſtitution, that Gods mercies prove not ſnares to them, and their meat their poiſon. The Lord put their ſpirits into a more thankfull frame, and make them more ſenſible of Gods due, and their own duty. I know I have ſtept out of my road, but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was to bring theſe negligent wanderers into the way. Now to return to my dear friend.
+<pb n="16" facs="tcp:35446:10"/>In her ordinary civill commu<g ref="char:EOLhyphen"/>nication and converſe amongſt thoſe ſhe lived withall, ſhe did ever demean her ſelf, to the ho<g ref="char:EOLhyphen"/>nour of her profeſſion, in an humble, ſweet and winning way: but yet if any controverſie did chance to ariſe in point of Re<g ref="char:EOLhyphen"/>ligion, ſhe was paſſionately zea<g ref="char:EOLhyphen"/>lous in defence of truth: ſhe would through the weakneſſe of her ſpirits then, pant in her eager diſcourſe, and yet contend ſtill, till neceſſity did inforce her ſilence. Her heart was ex<g ref="char:EOLhyphen"/>treamly averſe both to them and their waies, who any way held of ſuperſtitious vanities. In a word, ſhe was a ſincere, ſingle-hearted, downright Chriſtian, nothing acquainted with the art of guile. She was that which ſhe did ſeem to be, and did ſeem to be that which ſhe ought.</p>
+            <pb n="17" facs="tcp:35446:10"/>
+            <p> And now I draw on towards her laſt breathing. The morn<g ref="char:EOLhyphen"/>ing in which ſhe died, finding death to approach; <hi>This is the joyfulleſt day</hi> (ſaith ſhe) <hi>that ever mine eyes beheld.</hi> Being recovered out of one of her fits (for ſhe had extream convul<g ref="char:EOLhyphen"/>ſions) ſhe breathed out theſe ſwee, though imperfect expreſ<g ref="char:EOLhyphen"/>ſions: <hi>I thought I ſhould have been with my Saviour before this time</hi>—Then abruptly as breath would bear; <hi>My joyes are unſpeakable.</hi> Falling into another grievous fit, ſhe now deſired, if the Lord ſo pleaſed, that might be her laſt: and here<g ref="char:EOLhyphen"/>in ſhe was heard in her requeſt: being in this her laſt and ex<g ref="char:EOLhyphen"/>tream ſtrugling with death, ſhe often cried out, <hi>Come Lord, come Lord, when Lord, how long Lord?</hi> and at laſt, <hi>He is
+<pb n="19" facs="tcp:35446:11"/>come, he is come;</hi> and with that ſpeech ſhe expreſſed ſo much comfort, that ſhe often ſmiled in this extremity. Laſtly, ſhe clo<g ref="char:EOLhyphen"/>ſed in her breath with this ſhort ejaculation; Lord I deſire to breath out my ſoul unto thee.</p>
+            <p>Thus ſhe lived, and thus ſhe died; how ſaid I, died! not ſo, it was a change, not death, a change of place, a change of comforts, a change of inheri<g ref="char:EOLhyphen"/>tance, a change from a goodly earthly promotion here, to a glorious one for ever: In a word, it was but a pinch, that did lead to a Paradiſe; it was but a day-break to eternall brightneſſe. And here, I wiſh from my heart, it were within the ſtrength and compaſſe of my weak indeavours, to faſten this precious example upon the thoughts and conſciences of the
+<pb n="18" facs="tcp:35446:11"/>ſoft and delicate Ladies of our age, who ſeek for nothing more, (as many of their lives doe ſpeak) then to take out a hea<g ref="char:EOLhyphen"/>ven here on earth, crumbling out their daies on glorious vanities, and feeding their hearts and eyes, with fading, frivolous, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruitleſſe contentments. Oh that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey would but ſadly conſider, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et a little, a very little while, and then comes death, and then comes judgement, and then comes eternity, that long day that will never ſee an evening; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat deep gulph, that hath in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruth neither bounds nor bot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om; and what a melancholly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntrance will they finde into this <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verlaſting condition, when their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te improvidence ſhall inforce <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem to cry out, in their death<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed lamentation; Once were <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur joyes as full as our deſires,
+<pb n="20" facs="tcp:35446:12"/>our heads were crown'd with roſe buds, our faces ſhin'd with, — I tremble to ſpeak it in theſe reforming daies: but now, oh now, whither away all our glory; our delights are periſhed, yea vaniſhed, ſunk and gone, (and ſee their deceit<g ref="char:EOLhyphen"/>fullneſſe) they have left us no<g ref="char:EOLhyphen"/>thing behinde them but our ſins, as ſo many ſerpents to ſting us for all eternity; oh this is a long and deadly word, for all eternity. Theſe or the like will one day be their dolefull com<g ref="char:EOLhyphen"/>plaints, (and if a deep repen<g ref="char:EOLhyphen"/>tance intervene not) this will be the iſſue of all their joy. Tru<g ref="char:EOLhyphen"/>ly it makes my heart bleed in me, to ſee and conſider that in this juncture of time, when the land hath been ſo long in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mourning garment, and after ſo much bloud, and fire, and fa<g ref="char:EOLhyphen"/>mine,
+<pb n="21" facs="tcp:35446:12"/>and peſtilence, &amp; dreadfull deſolation in the ſeverall quar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers of this Kingdom, the daugh<g ref="char:EOLhyphen"/>ters of our Sion are no more ſen<g ref="char:EOLhyphen"/>ſible of theſe judgements which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave broken in upon us, then <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſtones in the ſtreets; they <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gge on in their old way, they <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fat, and drink the ſweet, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elt in pleaſures, and cloath themſelves as gloriouſly as if <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey meant to vie with the Sunne <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t noon day, when it exalts it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf in its greateſt brightneſſe: <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey walk with their ſtretcht out <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecks, and wanton eyes, and made complexions; ſhould the Lord in the naturall compoſure of their faces, have ingraven <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch black ſpots in them, as now their fancies adde, ſurely they would have looked on them<g ref="char:EOLhyphen"/>ſelves as monſters, and have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hought nature had been a ſtep<g ref="char:EOLhyphen"/>mother,
+<pb n="22" facs="tcp:35446:13"/>and dealt unkindly with them: but now (ſilly ſouls) becauſe theſe vain toyes are the imps of their own ſick brains, and their own hands have fa<g ref="char:EOLhyphen"/>ſhioned them, therefore they hugge the work of their own inventions, and the beauty which God vouchſafes them, ſeems deſpicable in their eyes. Surely our age is worſe then heatheniſh in this ſinfull liberty; for its reported by a faithfull hand, that the very Indians, (a<g ref="char:EOLhyphen"/>mongſt whom the Lord hath lately vouchſafed ſome daw<g ref="char:EOLhyphen"/>ning of the Goſpel) do ſo ab<g ref="char:EOLhyphen"/>hor the naked breſts of women, and hair hanging looſe, or cut as mens hair is, that they have made ſome Laws againſt them. Oh that our Engliſh Ladies ſhould grow ſo bold, as to pra<g ref="char:EOLhyphen"/>ctiſe that which Indians abhor,
+<pb n="23" facs="tcp:35446:13"/>which miſerable heathens count <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir ſhame. Alas, alas, however their deluded hearts may flatter them for a time, into a ſelf com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lacency in this their pleaſurable way, yet as ſure as their ſouls do live, it will be bitterneſſe in the latter end. For, tell me, tell me <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſhining gallantry, how will <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e indure it, when ye ſhall hear that terrible voice ſcunding in your ears, <hi>Ariſe ye dead and come <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> judgement?</hi> when ye ſhall be<g ref="char:EOLhyphen"/>hold upon your firſt peeping out of your graves, the world <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>n a light fire round about your <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ars, the elements melting with heat, the frame of the heavens diſſolved, hideous cryings of the creatures on every ſide; when ye ſhall finde nothing but flames and confuſion ready to welcome you into the world again? how will your hearts
+<pb n="24" facs="tcp:35446:14"/>melt, your hands quiver, your mindes faint, your knees fall a<g ref="char:EOLhyphen"/>way like water, when this gloo<g ref="char:EOLhyphen"/>my day appears! how will ye then, when all your golden op<g ref="char:EOLhyphen"/>portunities of grace are loſt and gone, in the ſenſe of your future ſufferings, even vex your ſelves for your former abominations? Theſe are the eyes which ſhot forth ſo many envious, amarous, laſcivious glaunces, now they are a terrour to my ſelf; theſe are the ears which have heark<g ref="char:EOLhyphen"/>ned to ſo many baſe, ſcurrilous, profane, luſt provoking ſongs, and now they preſent nothing but everlaſting woe and ſorrow to my ſoul; and now, when all theſe things come to paſſe, which way will you turn in the midſt of theſe perplexities, whence will ye look for ſuccour? will you now addreſſe your ſelf to
+<pb n="25" facs="tcp:35446:14"/>the fountain of mercy, ſupplicate grace from Chriſt: why, with what confidence and comfort canſt thou expect grace from him, to whom thou haſt been a ſtranger all thy dayes? here is horrour enough to confound thee, that he hath a fullneſſe of mercy in him, but none for thee; that he hath healing in his wings, but none for thy re<g ref="char:EOLhyphen"/>freſhment; he is a gracious in<g ref="char:EOLhyphen"/>terceſſor for others, but in rela<g ref="char:EOLhyphen"/>tion to thy ſelf, a judge to de<g ref="char:EOLhyphen"/>ſigne thee to everlaſting tor<g ref="char:EOLhyphen"/>ments. And what a ſad thing is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, that love it ſelf, mercy it ſelf, ſweetneſſe it ſelf; the Lambe muſt condemn thee? He that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath waſhed away the ſins of thouſands in his bloud, who have beleeved in him, and hath alſo made many, and many ten<g ref="char:EOLhyphen"/>ders of grace to thy ſoul, muſt
+<pb n="26" facs="tcp:35446:15"/>now for thy ſtubborn refuſals, ſeparate thee for ever by an irre<g ref="char:EOLhyphen"/>verſible ſentence from the glory of the Lord, and face of the Lamb. Oh think on this, think on this, whoſoever you are whom this counſell may con<g ref="char:EOLhyphen"/>cern; lay it ſeriouſly to heart: betimes whileſt your breaſts are full of milk, and bones are full of marrow, before the evil daies come, wherein ye ſhall ſay, I have no pleaſure in them.</p>
+            <p>Seemeth it a light thing in your eyes, that the wrath and indignation of the Lord hath broken forth ſo furiouſly againſt this Land? your ſex ſpeaks ten<g ref="char:EOLhyphen"/>derneſſe and compaſſion; why where is the ſounding of your bowels, where is your pitty to this diſtracted Kingdom? will ye not ceaſe to provoke the Lord againſt his Church, till ye have
+<pb n="27" facs="tcp:35446:15"/>improved your pride to her utter deſolation? This is the time of <hi>Jacobs</hi> trouble, and ſhall it be your day of triumph? Oh let the threatnings of the Lord pre<g ref="char:EOLhyphen"/>vail upon you: himſelf hath ſpoken it, <hi>Iſa.</hi> 22. that he will have even the life of thoſe that let out their affections to unſea<g ref="char:EOLhyphen"/>ſonable jollity, when his judge<g ref="char:EOLhyphen"/>ments call for tears: Beleeve his word and tremble. I beſſech you be content to loſe a luſt to ſave a Land, if you will not for your own ſakes, yet for the king<g ref="char:EOLhyphen"/>domes ſake forbear.</p>
+            <p>Away with your baſe and luſtfull baits, thoſe black and in<g ref="char:EOLhyphen"/>famous patches in your faces, which render you odious and ſcandalous in the world, and in every wiſe mans eye disfigure you, and lay it cloſe to your hearts what the Lord hath done
+<pb n="28" facs="tcp:35446:16"/>for you. Hath he not in this common ſpoil and calamity, when he hath ſwept away thou<g ref="char:EOLhyphen"/>ſands, (I believe) far more in<g ref="char:EOLhyphen"/>nocent then your ſelves, graci<g ref="char:EOLhyphen"/>ouſly provided you places of re<g ref="char:EOLhyphen"/>fuge, and given you your lives for a prey, and will ye now ſo unkindly requite him, as to turn his grace into wantonneſſe, abuſe his long-ſuffering, and trample on his love? What, hath the Lord, think ye, preſerved you all along through theſe bloody times, that you ſhould live to diſhonour him? Or can ye poſ<g ref="char:EOLhyphen"/>ſibly imagin, that he hath placed you in the earth, as the Levia<g ref="char:EOLhyphen"/>than in the ſea, to take your pa<g ref="char:EOLhyphen"/>ſtime in it? or created you to en<g ref="char:EOLhyphen"/>joy a Paradiſe of pleaſures here, and when you have fill'd up your generation, a heaven full of glo<g ref="char:EOLhyphen"/>ry hereafter? No, no, beleeve
+<pb n="29" facs="tcp:35446:16"/>it, the Lord hath no pleaſure in your vanities, your inſide beauty is his delight; the Kings daugh<g ref="char:EOLhyphen"/>ter was all glorious within: a life of luſt and pleaſure, is but the life of a beaſt, its a life of fol<g ref="char:EOLhyphen"/>ly, not of faith; in a word, its the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hame of Religion, and every good mans ſcorn. God expects ye ſhould up and be doing in your ſeverall vocations, and not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive like unprofitable members of the earth, to waſte and con<g ref="char:EOLhyphen"/>ſume the good creatures of God: certainly it will be your trueſt glory here, and your crown of rejoycing hereafter, under this light of the Goſpel, to lead a goſpel life.</p>
+            <p>Now if any of this ſex to whom I direct this diſcourſe, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall reply hereto and ſay, <hi>I will <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alk in the wayes of my heart, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight of my eyes; I will rejoyce in
+<pb n="30" facs="tcp:35446:17"/>my youth, and my heart ſhall chear me in my youth:</hi> I ſay no more but this; Thou that art filthy, be thou filthy ſtill; thou that art profane, be profane ſtill; thou that ſlighteſt Gods Ordinances, the means of thy ſalvation, neg<g ref="char:EOLhyphen"/>lect them ſtill; but take the cloſe, hear thy doom, know thou aſſu<g ref="char:EOLhyphen"/>redly, that for all theſe things God will bring thee to judge<g ref="char:EOLhyphen"/>ment. But on the contrary, art thou in the number of thoſe that fear the Lord, and walkeſt in his way? is the joy of the Lord thy ſtrength, and the word of the Lord thy joy? is thy affection ſet on thy treaſure, and thy trea<g ref="char:EOLhyphen"/>ſure ſet on high? Oh then well is thee, and happy ſhalt thou be; however it ſhall fare with this ſinfull Nation, thou art ſure for one: yea, though the earth ſhould move, and the hills be carried
+<pb n="31" facs="tcp:35446:17"/>into the midſt of the ſea, yet be<g ref="char:EOLhyphen"/>cauſe thy life is hid in Jeſus Chriſt, thou art as ſafe as <hi>Noah</hi> in his Ark, when ſtorms and waves ſurrounded him; thou art above the malice of men, the fury of devils, the power of cor<g ref="char:EOLhyphen"/>ruptions; the rock of ages is thy fortreſſe, thy ſunne, thy ſhield, thy ſure repoſe here, thy ſweet repoſe hereafter; for in his preſence is fullneſſe of joy, and at his right hand are pleaſures for evermore.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
